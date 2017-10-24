@@ -1,0 +1,1 @@
+﻿Program compares two fingerprints and prints percentage of their equality.
